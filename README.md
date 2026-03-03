@@ -1,7 +1,3 @@
-# CS 5330 - PR-CV - Assignment 1
-Rohil Kulshreshtha
-January 24, 2026
-
 ## Project Overview
 Real-time video and image filtering application with 27+ interactive effects.
 
@@ -73,4 +69,4 @@ Recording with Filters Demo:
 https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1d7799f-e3cf-453e-bb0a-b3de001418f1
 
 ## Known Issues
-- First time initialization of depth estimation may take a few secondss
+- First time initialization of depth estimation may take a few seconds
