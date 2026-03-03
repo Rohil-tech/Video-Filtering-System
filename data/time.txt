@@ -1,0 +1,4 @@
+video_screenshot_1769145782.jpg
+
+Time per image (1): 0.2180 seconds
+Time per image (2): 0.0295 seconds
